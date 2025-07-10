@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi there! I'm Natnael Ayalew (aka Natty-45)<br><br> 👨‍💻 Software Engineer | Tech Explorer | Creative Coder<br><br>---<br><br>🌍 Based in the world of 1s and 0s, trying to make sense of both AI and why my code only works at 2AM.<br><br>🧠 Passionate about:<br>- 🤖 Artificial Intelligence & Machine Learning  <br>- 🎮 Game Designing  <br>- ✨ Crafting beautiful UIs  <br>- ☕ Bringing ideas to life with code (and caffeine)
+ 👋 Hi there! I'm Natnael Ayalew (aka Natty-45)<br><br> 👨‍💻 Software Engineer | Tech Explorer | Creative Coder<br><br>---<br><br>🌍 Based in the world of 1s and 0s, trying to make sense of both AI and why my code only works at 2AM.<br><br>🧠 Passionate about:<br>- 🤖 Artificial Intelligence & Machine Learning  <br>- 🎮 Game Designing  <br>- ✨ Crafting beautiful UIs  <br>- ☕ Bringing ideas to life with code (and caffeine)
 
 
 ## 🌐 Socials:
